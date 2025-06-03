@@ -57,7 +57,21 @@
 </div>
 
 ###
+**You can also email me here:** 
 
+```c
+#include <stdio.h>
+
+void email() {
+  puts("dhanidwiputra371@gmail.com");
+}
+
+int main () {
+    email();
+    return 0;
+}
+```
+###
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/dhnnnn/dhnnnn/output/snake.svg" alt="Snake animation" />
