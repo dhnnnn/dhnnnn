@@ -51,7 +51,9 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/dhnnnn/count.svg?"  />
+  <img src="https://count.getloli.com/get/@dhnnnn?theme=rule34"  />
+  <br><br>
+	<code>People who visit my profile :3 Hehe~ another cutie has been caught.</code>
 </div>
 
 ###
