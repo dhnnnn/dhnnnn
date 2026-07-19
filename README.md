@@ -62,7 +62,7 @@
 #include <stdio.h>
 
 void email() {
-  puts("dhanidwiputra371@gmail.com");
+  puts("dhanidwiwork@gmail.com");
 }
 
 int main () {
