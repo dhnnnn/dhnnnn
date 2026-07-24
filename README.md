@@ -1,14 +1,32 @@
-<h2 align="left">Hi 👋 I'm Dhani Dwi Putra</h2>
+<h1 align="center">Hi 👋, I'm Dhani Dwi Putra</h1>
+
+<h3 align="center">
+  Full Stack Developer • Web3 Enthusiast • AI Enthusiast
+</h3>
+
+<p align="center">
+  I build web applications, explore Web3 technologies, and enjoy turning ideas into real-world products.
+</p>
+
+<p align="center">
+  MERN Stack & Laravel &nbsp; | &nbsp;
+  Web3 & Blockchain &nbsp; | &nbsp;
+  AI &nbsp; | &nbsp;
+  Cloud & DevOps
+</p>
 
 ###
 
-<p align="left">I'm a passionate Computer Science student currently on a journey to become a Full Stack Developer. I enjoy building both the frontend and backend of web applications, and I'm constantly learning new technologies to level up my skills. I'm also exploring cloud computing, databases, and best development practices.</p>
+I'm a Full Stack Developer passionate about building practical and scalable software solutions.
+
+I enjoy working across the full stack — from designing frontend interfaces and developing backend systems to working with databases, APIs, cloud infrastructure, and DevOps tools.
+
+I'm particularly interested in Full Stack Web Development, Web3 & Blockchain, AI, and Cloud Computing.
 
 ###
 
 
 ###
-
 <table align="center" width="100%">
   <tr>
     <!-- LANGUAGES -->
@@ -73,7 +91,6 @@
 </table>
 
 ###
-
 <div align="center">
   <a href="https://www.instagram.com/dhnnyz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
